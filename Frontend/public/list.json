@@ -1,0 +1,60 @@
+[
+    {
+        "id":1,
+        "name":"Story Book1",
+        "title":"This is free book 1.",
+        "price":0,
+        "category":"Free",
+        "image":"https://th.bing.com/th/id/OIP.Z2W6ATB74TjfJI1_-Zl6CwHaI2?w=164&h=196&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    },
+    {
+        "id":2,
+        "name":"Story Book2",
+        "title":"This is free book 1.",
+        "price":10,
+        "category":"paid",
+        "image":"https://th.bing.com/th/id/OIP.6sdyUL65Uzka0G2cq_CmlwHaHa?w=197&h=196&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    },
+    {
+        "id":3,
+        "name":"Story Book3",
+        "title":"This is free book 1.",
+        "price":0,
+        "category":"Free",
+        "image":"https://th.bing.com/th/id/OIP.Z2W6ATB74TjfJI1_-Zl6CwHaI2?w=164&h=196&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    },
+    {
+        "id":4,
+        "name":"Story Book4",
+        "title":"This is free book 1.",
+        "price":0,
+        "category":"Free",
+        "image":"https://th.bing.com/th/id/OIP.Z2W6ATB74TjfJI1_-Zl6CwHaI2?w=164&h=196&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    },
+    {
+        "id":5,
+        "name":"Story Book5",
+        "title":"This is free book 1.",
+        "price":0,
+        "category":"Free",
+        "image":"https://th.bing.com/th/id/OIP.Z2W6ATB74TjfJI1_-Zl6CwHaI2?w=164&h=196&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    },
+    {
+        "id":6,
+        "name":"Story Book6",
+        "title":"This is free book 1.",
+        "price":20,
+        "category":"Paid",
+        "image":"https://i.pinimg.com/736x/83/fe/2d/83fe2ddc543039fe3b4144dc9bb4f906.jpg"
+    },
+    {
+        "id":7,
+        "name":"Story Book7",
+        "title":"This is free book 1.",
+        "price":50,
+        "category":"Paid",
+        "image":"https://i.pinimg.com/736x/83/fe/2d/83fe2ddc543039fe3b4144dc9bb4f906.jpg"
+    }
+]
+
+
